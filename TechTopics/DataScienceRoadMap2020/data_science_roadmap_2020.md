@@ -19,6 +19,5 @@ https://www.udemy.com/course/machinelearning/?utm_campaign=rectifiedlearning.ai&
   
 
 ## Books and other resources
---------------------------------------    
-* Free book on statistics: http://greenteapress.com/thinkstats/thinkstats.pdf
+-------------------------------------- 
 
